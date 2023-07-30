@@ -60,7 +60,6 @@ class ShopItemViewModel : ViewModel() {
                 editShopItemUseCase.editShopItem(item)
                 closeShopItemActivity()
             }
-
         }
     }
 
